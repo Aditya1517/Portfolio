@@ -42,7 +42,7 @@ const About = () => {
           </h3>
           {/* About Me Paragraph */}
           <p className="text-base sm:text-lg md:text-lg text-gray-400 mb-10 mt-8 leading-relaxed">
-            I’m a Full-Stack Developer with over 2 years of experience in building scalable and high-performance web applications. Skilled in both front-end and back-end development, I specialize in the MERN stack, Data Science, and Data Analysis. I leverage modern technologies to deliver seamless user experiences and efficient, data-driven solutions.
+            I’m a Full-Stack Developer passionate about building scalable and high-performance web applications. Skilled in both front-end and back-end development, I specialize in the MERN stack, and have hands-on experience in Data Science and Data Analysis. I leverage modern technologies to deliver seamless user experiences and efficient, data-driven solutions. My projects span web development, emotion recognition from audio, and IoT malware detection using lightweight deep learning models.
           </p>
           {/* Resume Button */}
           <a
