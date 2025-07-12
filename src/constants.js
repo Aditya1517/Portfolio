@@ -137,7 +137,7 @@ export const SkillsInfo = [
       school: "Chhatrapati Shivaji Highschool- Vaduj",
       date: "Apr 2018 - March 2019",
       grade: "91.80%",
-      desc: "I completed my class 10 education from Chhatrapati Shivaji Highschool, Vaduj, under the Maharashtra State board, where I studied and ejnoyed so much.",
+      desc: "I completed my Class 10 education at Chhatrapati Shivaji High School, Vaduj, under the Maharashtra State Board. It was a valuable and enjoyable learning experience that laid the foundation for my academic growth.",
       degree: "Maharashtra State Board(X) - SSC",
     },
   ];
