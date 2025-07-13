@@ -1,5 +1,5 @@
 import React from "react";
-import { FaFacebook, FaTwitter, FaLinkedin, FaInstagram, FaYoutube } from "react-icons/fa";
+import { FaLinkedin, FaInstagram } from "react-icons/fa";
 import { SiX } from "react-icons/si";
 
 const Footer = () => {
@@ -23,7 +23,8 @@ const Footer = () => {
             { name: "About", id: "about" },
             { name: "Skills", id: "skills" },
             { name: "Experience", id: "experience" },
-            { name: "Projects", id: "projects" },
+            { name: "Projects", id: "work" },
+            { name: "Blogs", id: "blogs" },
             { name: "Education", id: "education" },
           ].map((item, index) => (
             <button

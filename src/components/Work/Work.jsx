@@ -11,7 +11,7 @@ const Work = () => {
   const handleCloseModal = () => {
     setSelectedProject(null);
   };
-  
+
   return (
     <section
       id="work"
