@@ -43,6 +43,7 @@ import jivhala from './assets/work_logo/jivhala.png';
 import blog1 from './assets/blogs/blog1.png';
 import blog2 from './assets/blogs/blog2.png';
 import blog3 from './assets/blogs/blog3.png';
+import blog4 from './assets/blogs/blog4.png';
 
 export const SkillsInfo = [
   {
@@ -206,7 +207,7 @@ export const SkillsInfo = [
     title: "Top 10 Tips for Full-Stack Developers",
     description: "Learn how to build scalable and efficient full-stack applications with these top 10 practical tips.",
     image: blog1,
-    date: "July 10, 2025",
+    date: "July 11, 2025",
     link: "https://medium.com/@adityamohiteakm/top-10-tips-for-full-stack-developers-from-html-to-edge-deployment-13d78151c257"
   },
   {
@@ -214,7 +215,7 @@ export const SkillsInfo = [
     title: "Understanding RESTful APIs with Node.js",
     description: "This blog explains RESTful APIs in a beginner-friendly manner and how to implement them using Node.js and Express.",
     image: blog2,
-    date: "June 25, 2025",
+    date: "July 12, 2025",
     link: "https://medium.com/@adityamohiteakm/understanding-restful-apis-with-node-js-a-beginner-friendly-guide-a7f90c8774ae"
   },
   {
@@ -222,7 +223,15 @@ export const SkillsInfo = [
     title: "Getting Started with Emotion Recognition from Audio",
     description: "A hands-on guide to recognizing human emotions from speech using deep learning and Python.",
     image: blog3,
-    date: "May 15, 2025",
+    date: "July 13, 2025",
     link: "https://medium.com/@adityamohiteakm/getting-started-with-emotion-recognition-from-audio-3e2676504b24"
+  },
+  {
+    id: 3,
+    title: "How I Built a Scalable Food Delivery Web App Using the MERN Stack",
+    description: "Built a scalable Food Delivery Web App using the MERN stack with features like JWT auth, image uploads, Context API, and full deployment on Render & Vercel. This post covers the full project breakdown with code snippets and tips. Perfect for devs building real-world apps!",
+    image: blog4,
+    date: "July 14, 2025",
+    link: "https://medium.com/@adityamohiteakm/how-i-built-a-scalable-food-delivery-web-app-using-the-mern-stack-9b8365795fb7"
   },
 ];
