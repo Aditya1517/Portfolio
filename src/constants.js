@@ -44,6 +44,7 @@ import blog1 from './assets/blogs/blog1.png';
 import blog2 from './assets/blogs/blog2.png';
 import blog3 from './assets/blogs/blog3.png';
 import blog4 from './assets/blogs/blog4.png';
+import blog5 from './assets/blogs/blog5.png';
 
 export const SkillsInfo = [
   {
@@ -229,9 +230,17 @@ export const SkillsInfo = [
   {
     id: 3,
     title: "How I Built a Scalable Food Delivery Web App Using the MERN Stack",
-    description: "Built a scalable Food Delivery Web App using the MERN stack with features like JWT auth, image uploads, Context API, and full deployment on Render & Vercel. This post covers the full project breakdown with code snippets and tips. Perfect for devs building real-world apps!",
+    description: "Scalable Food Delivery Web App built with the MERN stack featuring JWT auth, image uploads, Context API, and full deployment. A practical guide with code snippets and tips for real-world devs.",
     image: blog4,
     date: "July 14, 2025",
     link: "https://medium.com/@adityamohiteakm/how-i-built-a-scalable-food-delivery-web-app-using-the-mern-stack-9b8365795fb7"
+  },
+  {
+    id: 4,
+    title: "Lessons Learned from Building a Full-Stack E-Commerce App with Razorpay & Stripe Integration",
+    description: "A hands-on guide to building a full-stack e-commerce app with secure Razorpay and Stripe payment integration using React, Node.js, and MongoDB.",
+    image: blog5,
+    date: "July 14, 2025",
+    link: "https://medium.com/@adityamohiteakm/lessons-learned-from-building-a-full-stack-e-commerce-app-with-razorpay-stripe-integration-9d4d2ec0a2d7"
   },
 ];
