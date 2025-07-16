@@ -45,6 +45,7 @@ import blog2 from './assets/blogs/blog2.png';
 import blog3 from './assets/blogs/blog3.png';
 import blog4 from './assets/blogs/blog4.png';
 import blog5 from './assets/blogs/blog5.png';
+import blog6 from './assets/blogs/blog6.png';
 
 export const SkillsInfo = [
   {
@@ -240,7 +241,15 @@ export const SkillsInfo = [
     title: "Lessons Learned from Building a Full-Stack E-Commerce App with Razorpay & Stripe Integration",
     description: "A hands-on guide to building a full-stack e-commerce app with secure Razorpay and Stripe payment integration using React, Node.js, and MongoDB.",
     image: blog5,
-    date: "July 14, 2025",
+    date: "July 15, 2025",
     link: "https://medium.com/@adityamohiteakm/lessons-learned-from-building-a-full-stack-e-commerce-app-with-razorpay-stripe-integration-9d4d2ec0a2d7"
+  },
+  {
+    id: 0,
+    title: "JWT Authentication in MERN Apps: A Beginner-Friendly Guide",
+    description: "Learn how to add JWT authentication to your MERN app with secure login, token handling, and protected routes.",
+    image: blog6,
+    date: "July 16, 2025",
+    link: "https://medium.com/@adityamohiteakm/jwt-authentication-in-mern-apps-a-beginner-friendly-guide-00ed6b6405fc"
   },
 ];
