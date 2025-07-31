@@ -5,7 +5,6 @@ import javascriptLogo from './assets/tech_logo/javascript.png';
 import reactjsLogo from './assets/tech_logo/reactjs.png';
 import tailwindcssLogo from './assets/tech_logo/tailwindcss.png';
 import bootstrapLogo from './assets/tech_logo/bootstrap.png';
-import springbootLogo from './assets/tech_logo/springboot.png';
 import nodejsLogo from './assets/tech_logo/nodejs.png';
 import expressjsLogo from './assets/tech_logo/express.png';
 import mysqlLogo from './assets/tech_logo/mysql.png';
@@ -43,9 +42,8 @@ import jivhala from './assets/work_logo/jivhala.png';
 import blog1 from './assets/blogs/blog1.png';
 import blog2 from './assets/blogs/blog2.png';
 import blog3 from './assets/blogs/blog3.png';
-import blog4 from './assets/blogs/blog4.png';
-import blog5 from './assets/blogs/blog5.png';
-import blog6 from './assets/blogs/blog6.png';
+import excel_basics from './assets/blogs/excel_basics.png';
+import excel_power_query from './assets/blogs/excel_power_query.jpeg';
 
 export const SkillsInfo = [
   {
@@ -206,19 +204,19 @@ export const SkillsInfo = [
   export const blogs = [
   {
     id: 0,
-    title: "Top 10 Tips for Full-Stack Developers",
-    description: "Learn how to build scalable and efficient full-stack applications with these top 10 practical tips.",
+    title: "How I Built a Scalable Food Delivery Web App Using the MERN Stack",
+    description: "Scalable Food Delivery Web App built with the MERN stack featuring JWT auth, image uploads, Context API, and full deployment. A practical guide with code snippets and tips for real-world devs.",
     image: blog1,
-    date: "July 11, 2025",
-    link: "https://medium.com/@adityamohiteakm/top-10-tips-for-full-stack-developers-from-html-to-edge-deployment-13d78151c257"
+    date: "July 14, 2025",
+    link: "https://medium.com/@adityamohiteakm/how-i-built-a-scalable-food-delivery-web-app-using-the-mern-stack-9b8365795fb7"
   },
   {
     id: 1,
-    title: "Understanding RESTful APIs with Node.js",
-    description: "This blog explains RESTful APIs in a beginner-friendly manner and how to implement them using Node.js and Express.",
+    title: "Lessons Learned from Building a Full-Stack E-Commerce App with Razorpay & Stripe Integration",
+    description: "A hands-on guide to building a full-stack e-commerce app with secure Razorpay and Stripe payment integration using React, Node.js, and MongoDB.",
     image: blog2,
-    date: "July 12, 2025",
-    link: "https://medium.com/@adityamohiteakm/understanding-restful-apis-with-node-js-a-beginner-friendly-guide-a7f90c8774ae"
+    date: "July 15, 2025",
+    link: "https://medium.com/@adityamohiteakm/lessons-learned-from-building-a-full-stack-e-commerce-app-with-razorpay-stripe-integration-9d4d2ec0a2d7"
   },
   {
     id: 2,
@@ -230,26 +228,26 @@ export const SkillsInfo = [
   },
   {
     id: 3,
-    title: "How I Built a Scalable Food Delivery Web App Using the MERN Stack",
-    description: "Scalable Food Delivery Web App built with the MERN stack featuring JWT auth, image uploads, Context API, and full deployment. A practical guide with code snippets and tips for real-world devs.",
-    image: blog4,
-    date: "July 14, 2025",
-    link: "https://medium.com/@adityamohiteakm/how-i-built-a-scalable-food-delivery-web-app-using-the-mern-stack-9b8365795fb7"
+    title: "Federated Learning with CNN for Edge Malware Detection — A Practical Guide",
+    description: "A practical guide to deploying Federated Learning with CNNs on Raspberry Pi for real-time, privacy-preserving malware detection in Industrial IoT systems — highlighting architecture, implementation, and key learnings.",
+    image: malware,
+    date: "July 21, 2025",
+    link: "https://medium.com/@adityamohiteakm/federated-learning-with-cnn-for-edge-malware-detection-a-practical-guide-368a1cffc26e"
   },
   {
     id: 4,
-    title: "Lessons Learned from Building a Full-Stack E-Commerce App with Razorpay & Stripe Integration",
-    description: "A hands-on guide to building a full-stack e-commerce app with secure Razorpay and Stripe payment integration using React, Node.js, and MongoDB.",
-    image: blog5,
-    date: "July 15, 2025",
-    link: "https://medium.com/@adityamohiteakm/lessons-learned-from-building-a-full-stack-e-commerce-app-with-razorpay-stripe-integration-9d4d2ec0a2d7"
+    title: "Excel Basics for Data Analysis: A Beginner’s Guide to Formulas, Functions & Shortcuts",
+    description: "A beginner-friendly guide to essential Excel functions, formulas, and shortcuts for effective data analysis — covering math, logic, conditional tools, text functions, and worksheet management.",
+    image: excel_basics,
+    date: "July 23, 2025",
+    link: "https://medium.com/@adityamohiteakm/excel-basics-for-data-analysis-a-beginners-guide-to-formulas-functions-shortcuts-04a8bc94b5df"
   },
   {
-    id: 0,
-    title: "JWT Authentication in MERN Apps: A Beginner-Friendly Guide",
-    description: "Learn how to add JWT authentication to your MERN app with secure login, token handling, and protected routes.",
-    image: blog6,
+    id: 5,
+    title: "Mastering Power Query in Excel: From Basics to Advanced Data Transformation",
+    description: "A complete beginner-to-advanced guide to Power Query in Excel — learn how to import, clean, transform, and automate data workflows using this powerful no-code ETL tool.",
+    image: excel_power_query,
     date: "July 16, 2025",
-    link: "https://medium.com/@adityamohiteakm/jwt-authentication-in-mern-apps-a-beginner-friendly-guide-00ed6b6405fc"
+    link: "https://medium.com/@adityamohiteakm/mastering-power-query-in-excel-from-basics-to-advanced-data-transformation-347c2946b419"
   },
 ];
